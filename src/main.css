@@ -531,6 +531,7 @@ svg[fill="hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%)"] {
 
 /* Slash Command Popouts */
 .categoryHeader_fe2299,
+.categoryHeader_d1405b,
 .header__49fc1 {
   background-color: var(--background-floating) !important;
 }

@@ -520,15 +520,18 @@ svg[fill="hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%)"] {
 
 /* Emoji Popouts */
 .autocompleteInner_f23da8,
+.autocompleteInner__6b0e0,
 .autocompleteInner_bea0d0 {
   background-color: var(--background-floating) !important;
 }
-.selected-3H3-RC {
+.selected-3H3-RC,
+.soundButtonRefresh__6d4ed {
   background-color: var(--background-primary) !important;
 }
 
 /* Slash Command Popouts */
-.categoryHeader_fe2299 {
+.categoryHeader_fe2299,
+.header__49fc1 {
   background-color: var(--background-floating) !important;
 }
 .option_bea3ee,
@@ -835,7 +838,8 @@ svg[fill="hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%)"] {
 }
 
 /* Reaction Modal */
-.reactors_f2bfbb {
+.reactors_f2bfbb,
+.popover_f84418 {
   background-color: var(--background-primary) !important;
 }
 .reactorDefault_f2bfbb {
@@ -865,7 +869,10 @@ svg[fill="hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%)"] {
 }
 
 /* Apps Modal */
-.slideContent_f7506e {
+.slideContent_f7506e,
+.content__49fc1,
+.appDetailsContainer_cb32c7,
+.searchBarContainer__927fc {
   background-color: var(--background-primary) !important;
 }
 .container_e5da8b,
@@ -919,7 +926,9 @@ svg[fill="hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%)"] {
 }
 .footer-31IekZ,
 .footer_f82cc7,
-.footer_f9a4c9 {
+.footer_f9a4c9,
+.footer__99afd,
+.footer__49fc1 {
   background-color: var(--background-tertiary) !important;
 }
 
@@ -930,11 +939,14 @@ svg[fill="hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%)"] {
 
 /* Browse Channels / Members */
 .header_f1fd9c,
+.header__0b563,
 .scroller_d20375,
 .pageBody_c2efea {
   background-color: var(--background-primary) !important;
 }
-.channelRow_f04d06 {
+.channelRow_f04d06,
+.pageBody__41ed7,
+.thin_d125d2 {
   background-color: var(--background-secondary);
 }
 
